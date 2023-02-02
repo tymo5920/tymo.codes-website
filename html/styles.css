@@ -1,0 +1,26 @@
+body{
+    background-color: #000000;
+}
+.h1, .welcome, .h6{
+    color: white;
+}
+.header{
+    margin-top: 2.5rem
+
+}
+.s1{
+    padding-left: 50px;
+    padding-right: 50px;
+    border-top: #ffffff 1px solid;
+}
+.h6{
+    margin: auto;
+}
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 50;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
