@@ -1,41 +1,4 @@
-body{
-    background-color: #000000;
-    margin: auto;
-    padding-left: 250px;
-    padding-right: 250px;
-}
-.h1, .welcome, .h6{
-    color: white;
-}
-.header{
-    margin-top: 2.5rem
-
-}
-.s1{
-    padding-left: 50px;
-    padding-right: 50px;
-    border-top: #ffffff 1px solid;
-}
-.h6{
-    margin: auto;
-}
-.footer{
-    position: fixed;
-    left: 0;
-    bottom: 50;
-    width: 100%;
-    color: white;
-    text-align: center;
-
-}
-.row{
-    padding-bottom: 100px;
-    padding-top: 50px;
-    border-bottom: #ffffff 1px solid;
-    padding-left: 20px;
-    padding-right: 20px;
-}
-.btnsm{
-    padding-left: 20px;
-    padding-right: 20px;
+.body{
+    margin-left: 200px;
+    margin-right: 200px;
 }
